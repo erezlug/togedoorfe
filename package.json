@@ -1,6 +1,4 @@
-{
-
-  "name": "togedoor-frontend",
+{ "name": "togedoor-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,7 +35,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -54,5 +52,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://togedoorserver-env.eba-666nat8c.us-west-2.elasticbeanstalk.com/",
+  "proxy": "https://togedoorserver-env.eba-666nat8c.us-west-2.elasticbeanstalk.com/"
 }
