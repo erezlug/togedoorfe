@@ -1,6 +1,5 @@
 {
 
-  "homepage": "http://togedoortest.github.io/togedoorfe",
   "name": "togedoor-frontend",
   "version": "0.1.0",
   "private": true,
@@ -57,8 +56,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://togedoorserver-env.eba-666nat8c.us-west-2.elasticbeanstalk.com",
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
-  }
+  "proxy": "https://togedoorserver-env.eba-666nat8c.us-west-2.elasticbeanstalk.com/",
 }
